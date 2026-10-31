@@ -20,3 +20,14 @@
     alt="GitHub contribution streak"
   />
 </p>
+
+## 📜 Certificates
+
+<p align="center">
+  <a href="https://www.boot.dev/certificates/9ddad905-b41e-41a2-bff4-4c29ba96c5b8">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9ddad905-b41e-41a2-bff4-4c29ba96c5b8.jpeg?v=1790235690" width="45%" alt="Boot.dev Learn TypeScript Certificate" />
+  </a>
+  <a href="https://www.boot.dev/certificates/26f51de8-e58c-47d1-b697-3ca8b948efed">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/26f51de8-e58c-47d1-b697-3ca8b948efed.jpeg?v=1790153034" width="45%" alt="Boot.dev Learn JavaScript Certificate" />
+  </a>
+</p>
