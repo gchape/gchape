@@ -1,4 +1,3 @@
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -32,5 +31,8 @@
   </a>
   <a href="https://www.boot.dev/certificates/662d83db-c909-48f1-a2fa-4073a83dd2a6">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/662d83db-c909-48f1-a2fa-4073a83dd2a6.jpeg?v=1793522148" width="45%" alt="Boot.dev Learn Object Oriented Programming in Python certificate" />
+  </a>
+  <a href="https://www.boot.dev/certificates/6bda2b26-ed9a-4100-9c7b-17d0605d2b2d">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6bda2b26-ed9a-4100-9c7b-17d0605d2b2d.jpeg?v=1793536980" width="45%" alt="Boot.dev Introduction to Python Course certificate" />
   </a>
 </p>
