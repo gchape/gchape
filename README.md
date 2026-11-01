@@ -30,4 +30,7 @@
   <a href="https://www.boot.dev/certificates/26f51de8-e58c-47d1-b697-3ca8b948efed">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/26f51de8-e58c-47d1-b697-3ca8b948efed.jpeg?v=1790153034" width="45%" alt="Boot.dev Learn JavaScript Certificate" />
   </a>
+  <a href="https://www.boot.dev/certificates/662d83db-c909-48f1-a2fa-4073a83dd2a6">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/662d83db-c909-48f1-a2fa-4073a83dd2a6.jpeg?v=1793522148" width="45%" alt="Boot.dev Learn Object Oriented Programming in Python certificate" />
+  </a>
 </p>
